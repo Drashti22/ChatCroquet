@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\chat",
+    "\\chat\\services",
+    "\\chat\\services\\chat",
+    "\\chat\\services\\chatStorage"
+  ],
+  "SelectedNode": "\\chat\\chat.sln",
+  "PreviewInSolutionExplorer": false
+}

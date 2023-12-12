@@ -1,0 +1,12 @@
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\bin\Debug\net6.0\chatStorage.deps.json
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\bin\Debug\net6.0\chatStorage.dll
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\bin\Debug\net6.0\chatStorage.pdb
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\obj\Debug\net6.0\chatStorage.csproj.AssemblyReference.cache
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\obj\Debug\net6.0\chatStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\obj\Debug\net6.0\chatStorage.AssemblyInfoInputs.cache
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\obj\Debug\net6.0\chatStorage.AssemblyInfo.cs
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\obj\Debug\net6.0\chatStorage.csproj.CoreCompileInputs.cache
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\obj\Debug\net6.0\chatStorage.dll
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\obj\Debug\net6.0\refint\chatStorage.dll
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\obj\Debug\net6.0\chatStorage.pdb
+C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatStorage\obj\Debug\net6.0\ref\chatStorage.dll

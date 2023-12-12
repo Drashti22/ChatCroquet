@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "chatCommon/1.0.0": {
+        "dependencies": {
+          "Beamable.Common": "1.19.7"
+        },
+        "runtime": {
+          "chatCommon.dll": {}
+        }
+      },
+      "Beamable.Common/1.19.7": {
+        "dependencies": {
+          "Beamable.UnityEngine": "1.19.7"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Unity.Beamable.Runtime.Common.dll": {
+            "assemblyVersion": "1.19.7.0",
+            "fileVersion": "1.19.7.0"
+          }
+        }
+      },
+      "Beamable.UnityEngine/1.19.7": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/UnityEngine.dll": {
+            "assemblyVersion": "1.19.7.0",
+            "fileVersion": "1.19.7.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chatCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Beamable.Common/1.19.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yu6u6RXDNabMsNA4e1M3E5Mm4ujkfOIXu25gipv+ArqusshBpvdw/wvhpLopwiMJBopLJddqnmIw/XYvS3pVrQ==",
+      "path": "beamable.common/1.19.7",
+      "hashPath": "beamable.common.1.19.7.nupkg.sha512"
+    },
+    "Beamable.UnityEngine/1.19.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hw0yQdDRi6gPpZhx4waZvP6Q37Mpu3nq/JlvRHXjnmLf/fVcTw2YWvBcnyd7LvpjKpIktq8zL92lDKl6zW5VfQ==",
+      "path": "beamable.unityengine/1.19.7",
+      "hashPath": "beamable.unityengine.1.19.7.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/PjF/2xZ/txQhdRsRLxMizkOHguCiisVBSTTpvTZLxAZ1WfTS+ZEg94KZiUeAoFfc1gHBpCz3aJom+QkNEXKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\MyProjects\\ChatBeamable\\chat\\services\\chatCommon\\chatCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\beamable.common\\1.19.7\\beamable.common.1.19.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\beamable.unityengine\\1.19.7\\beamable.unityengine.1.19.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

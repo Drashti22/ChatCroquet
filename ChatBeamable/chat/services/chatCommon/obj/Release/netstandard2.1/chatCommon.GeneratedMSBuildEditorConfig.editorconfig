@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = chatCommon
+build_property.ProjectDir = C:\Users\admin\MyProjects\ChatBeamable\chat\services\chatCommon\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

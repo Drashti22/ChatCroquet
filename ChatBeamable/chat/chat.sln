@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{37B6BA4B-FBFD-42AD-802B-41C0EA9F2379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat", "services\chat\chat.csproj", "{AB78A04C-1AFB-4266-91FC-87FD17298127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chatCommon", "services\chatCommon\chatCommon.csproj", "{AB76A113-D616-4501-9E1E-193DA9633368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chatStorage", "services\chatStorage\chatStorage.csproj", "{2BCC1FE2-D20B-487D-8A96-1F1AC88D2A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB78A04C-1AFB-4266-91FC-87FD17298127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB78A04C-1AFB-4266-91FC-87FD17298127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB78A04C-1AFB-4266-91FC-87FD17298127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB78A04C-1AFB-4266-91FC-87FD17298127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB76A113-D616-4501-9E1E-193DA9633368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB76A113-D616-4501-9E1E-193DA9633368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB76A113-D616-4501-9E1E-193DA9633368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB76A113-D616-4501-9E1E-193DA9633368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BCC1FE2-D20B-487D-8A96-1F1AC88D2A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCC1FE2-D20B-487D-8A96-1F1AC88D2A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCC1FE2-D20B-487D-8A96-1F1AC88D2A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCC1FE2-D20B-487D-8A96-1F1AC88D2A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB78A04C-1AFB-4266-91FC-87FD17298127} = {37B6BA4B-FBFD-42AD-802B-41C0EA9F2379}
+		{AB76A113-D616-4501-9E1E-193DA9633368} = {37B6BA4B-FBFD-42AD-802B-41C0EA9F2379}
+		{2BCC1FE2-D20B-487D-8A96-1F1AC88D2A8B} = {37B6BA4B-FBFD-42AD-802B-41C0EA9F2379}
+	EndGlobalSection
+EndGlobal
